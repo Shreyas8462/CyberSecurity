@@ -1,0 +1,52 @@
+CH  5 ][ Elapsed: 37 s ][ 2025-08-04 09:20 ][ wlan0 reset to monitor mode
+
+ BSSID              PWR  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID
+
+ 36:F7:1A:C7:CB:DC  -16       14        0    0   1  180   WPA3 CCMP   SAE  realme P3 5G                                                                                                      
+ 5E:3B:62:E0:24:7F   -1        0        0    0   7   -1                    <length:  0>                                                                                                      
+ 5C:64:8E:D0:48:0D  -61        6        0    0   6  130   WPA2 CCMP   PSK  Airtel_STSKK386                                                                                                   
+
+ BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes
+
+ (not associated)   B6:7F:1C:A2:3C:BB  -66    0 - 1      0        2                                                                                                                           
+ (not associated)   00:45:E2:E4:81:7F  -82    0 - 1      0        2                                                                                                                           
+ (not associated)   6A:07:B0:D1:4A:26  -72    0 - 1      0        4                                                                                                                           
+ 5E:3B:62:E0:24:7F  50:5A:65:77:7D:EB  -76    0 - 1      0        4                                 
+
+
+
+
+
+
+Nmap scan report for 192.168.254.1
+Host is up (0.00010s latency).
+All 100 scanned ports on 192.168.254.1 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+MAC Address: 00:50:56:C0:00:08 (VMware)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.254.2
+Host is up (0.0039s latency).
+Not shown: 99 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+53/tcp open  domain  dnsmasq 2.84rc2
+MAC Address: 00:50:56:E9:18:80 (VMware)
+Aggressive OS guesses: VMware Player virtual NAT device (99%), Microsoft Windows XP SP3 or Windows 7 or Windows Server 2012 (93%), Microsoft Windows XP SP3 (91%), DD-WRT v24-sp2 (Linux 2.4.37) (91%), Actiontec MI424WR-GEN3I WAP (91%), DVTel DVT-9540DW network camera (89%), Linux 3.2 (89%), Linux 4.4 (89%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.254.254
+Host is up (0.00026s latency).
+All 100 scanned ports on 192.168.254.254 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+MAC Address: 00:50:56:E0:50:FB (VMware)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.254.129
+Host is up (0.000064s latency).
+All 100 scanned ports on 192.168.254.129 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
