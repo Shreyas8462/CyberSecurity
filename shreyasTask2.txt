@@ -1,0 +1,29 @@
+From: Netflix Support <billing@netfIix-payment.com>
+Subject: ⚠ Payment Issue: Update Your Billing Information Immediately
+Date: Wed, 6 Aug 2025 09:51:04 +0530
+
+Dear Customer,
+We were unable to process your latest Netflix subscription payment.
+
+Your membership will be suspended within 24 hours unless we receive updated billing information.
+
+To continue enjoying your favorite shows, please update your payment details now.
+
+🔗 Update Payment Info Now:
+http://netflix-account-billing.com/update
+
+Thank you for being a valued member of Netflix.
+
+Sincerely,
+Netflix Billing Team
+support@netflix.com
+www.netflix.com
+
+
+Red Flag	                  Description
+Fake sender domain	netfIix-payment.com — “I” is actually a capital “i”, not a lowercase “L”
+Urgent language	        “Payment failed,” “account suspension,” “24 hours” induces panic
+Fake payment link	Directs to a non-Netflix site to steal card details
+Spoofed branding	Mimics Netflix email format but not from a trusted source
+No personal details	Legit companies usually address you by name, not just “Dear Customer”
+
